@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[PlacesUIViewController tableView:cellForRowAtIndexPath:]:PlacesUIViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "note.noteText">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PlacesUIViewController tableView:heightForRowAtIndexPath:]:PlacesUIViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentSlateNote">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PlacesUIViewController objectLoader:didLoadObjects:]:PlacesUIViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "main:main.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WriteNoteUIViewController saveNote]:WriteNoteUIViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[UserSearchViewController setUserList:]:UserSearchViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[WriteNoteUIViewController prepareForSegue:sender:]:WriteNoteUIViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
